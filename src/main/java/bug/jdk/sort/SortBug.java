@@ -51,11 +51,6 @@ public class SortBug {
         if (c1 == null || c2 == null) {
             return c1 == null ? -1 : 1;
         }
-        final String s1 = c1.toUpperCase();
-        final String s2 = c2.toUpperCase();
-        final int rc = s1.compareTo(s2);
-//        System.err.println("comparing [" + s1 + "] with [" + s2 + "]. rc==" + rc);
-        return rc;
+        return c1.compareToIgnoreCase(c2);
     }
-
 }
