@@ -1,0 +1,753 @@
+Lexogen - 7010 X14
+SwiftDoubleIndex - D705_D504_S36
+NEBNEXT - q15
+SwiftDoubleIndex - D701_D504_S4
+NEBNEXT - q13
+NEBNEXT - q14
+Lexogen - 7054 X9
+Lexogen - 7040 X10
+Lexogen - 7058 X11
+Lexogen - 7078 X12
+SwiftDoubleIndex - D701_D501_S1
+SwiftDoubleIndex - D701_D502_S2
+SwiftDoubleIndex - D701_D503_S3
+SwiftDoubleIndex - D701_D505_S5
+SwiftDoubleIndex - D701_D506_S6
+SwiftDoubleIndex - D701_D507_S7
+SwiftDoubleIndex - D701_D508_S8
+SwiftDoubleIndex - D702_D501_S9
+SwiftDoubleIndex - D702_D502_S10
+SwiftDoubleIndex - D702_D503_S11
+SwiftDoubleIndex - D702_D504_S12
+SwiftDoubleIndex - D702_D505_S13
+SwiftDoubleIndex - D702_D506_S14
+SwiftDoubleIndex - D702_D507_S15
+SwiftDoubleIndex - D702_D508_S16
+SwiftDoubleIndex - D703_D501_S17
+SwiftDoubleIndex - D703_D502_S18
+SwiftDoubleIndex - D703_D503_S19
+SwiftDoubleIndex - D703_D504_S20
+SwiftDoubleIndex - D703_D505_S21
+SwiftDoubleIndex - D703_D506_S22
+SwiftDoubleIndex - D709_D508_S72
+SwiftDoubleIndex - D703_D507_S23
+SwiftDoubleIndex - D703_D508_S24
+SwiftDoubleIndex - D704_D501_S25
+SwiftDoubleIndex - D704_D502_S26
+SwiftDoubleIndex - D704_D503_S27
+SwiftDoubleIndex - D704_D504_S28
+SwiftDoubleIndex - D704_D505_S29
+SwiftDoubleIndex - D704_D506_S30
+SwiftDoubleIndex - D704_D507_S31
+Illumina - I020
+SwiftDoubleIndex - D704_D508_S32
+SwiftDoubleIndex - D705_D502_S34
+SwiftDoubleIndex - D705_D503_S35
+SwiftDoubleIndex - D705_D505_S37
+SwiftDoubleIndex - D706_D506_S46
+SwiftDoubleIndex - D708_D508_S64
+SwiftDoubleIndex - D709_D501_S65
+SwiftDoubleIndex - D710_D502_S74
+SwiftDoubleIndex - D710_D508_S80
+SwiftDoubleIndex - D711_D503_S83
+SwiftDoubleIndex - D712_D504_S92
+Lexogen - X5
+Lexogen - 7036 X6
+Lexogen - 7048 X7
+Lexogen - 7011 X8
+SureSelectXT2 - T1
+SureSelectXT2 - T2
+SureSelectXT2 - T3
+SureSelectXT2 - T4
+SureSelectXT2 - T5
+SureSelectXT2 - T6
+SureSelectXT2 - T7
+SureSelectXT2 - T8
+Illumina - I019
+Illumina - I013
+Illumina - I014
+Illumina - I015
+Illumina - I016
+Illumina - I018
+Illumina - I021
+Illumina - I022
+Illumina - I023
+Illumina - I025
+Illumina - I027
+NEBNEXT - q1
+NEBNEXT - q2
+NEBNEXT - q3
+NEBNEXT - q4
+NEBNEXT - q5
+NEBNEXT - q6
+NEBNEXT - q7
+NEBNEXT - q16
+Lexogen - 7071 X16
+Lexogen - 7025 X97
+NEBNEXT - q28
+Nextera - 721_520
+Lexogen - 7017 X42
+Lexogen - 7053 X53
+Lexogen - 7085 X91
+NEBNEXT - q9
+NEBNEXT - q10
+NEBNEXT - q11
+NEBNEXT - q12
+NEBNEXT - q17
+NEBNEXT - q18
+Lexogen - 7004 X67
+Lexogen - 7067 X68
+Lexogen - 7096 X69
+Lexogen - 7072 X70
+Lexogen - 7057 X71
+Lexogen - 7047 X72
+Lexogen - 7065 X77
+Lexogen - 7016 X78
+Lexogen - 7007 X79
+Lexogen - 7014 X80
+Lexogen - 7082 X82
+Lexogen - 7009 X83
+Lexogen - 7077 X84
+Lexogen - 7064 X89
+Lexogen - 7087 X90
+Lexogen - 7045 X95
+Lexogen - 7090 X92
+Lexogen - 7052 X93
+Lexogen - 7060 X94
+Lexogen - 7056 X96
+Lexogen - 7026 X15
+Lexogen - 7002 X17
+Lexogen - 7089 X18
+Lexogen - 7013 X19
+Lexogen - 7015 X20
+Lexogen - 7003 X21
+Lexogen - 7049 X22
+Lexogen - 7033 X23
+Lexogen - 7050 X24
+Nextera - 722_513
+Lexogen - 7091 X26
+Lexogen - 7027 X27
+Nextera - N503a
+Lexogen - 7035 X28
+Nextera - N517
+Nextera - N502
+Nextera - N503
+Nextera - N504
+NEBNEXT - q26
+NEBNEXT - q25
+NEBNEXT - q27
+NEBNEXT - q29
+NEBNEXT - q31
+NEBNEXT - q32
+NEBNEXT - q33
+NEBNEXT - q34
+NEBNEXT - q35
+NEBNEXT - q36
+NEBNEXT - q42
+Nextera - 720_513
+Nextera - 720_515
+Nextera - 720_516
+Nextera - 720_517
+Nextera - 720_518
+NEBNEXT - q19
+NEBNEXT - q20
+NEBNEXT - q21
+NEBNEXT - q22
+NEBNEXT - q23
+NEBNEXT - q24
+Nextera - 721_515
+BIRCV - NOT INTENDED FOR SYNTHESIS
+BIRCV - library discarded
+Lexogen - 7068 X30
+Lexogen - 7041 X29
+Lexogen - 7093 X31
+Lexogen - 7075 X32
+Lexogen - 7008 X33
+Lexogen - 7038 X34
+Lexogen - 7019 X35
+Lexogen - 7012 X36
+Lexogen - 7066 X38
+Lexogen - 7023 X39
+Lexogen - 7001 X40
+Lexogen - 7083 X41
+Lexogen - 7024 X43
+Lexogen - 7046 X44
+Lexogen - 7018 X45
+Lexogen - 7063 X46
+Lexogen - 7021 X47
+Lexogen - 7074 X64
+Nextera - 702_502
+Nextera - 706_517
+Nextera - 702_517
+Lexogen - 7006 X81
+Lexogen - 7029 X63
+Lexogen - 7073 X48
+Lexogen - 7031 X50
+Lexogen - 7030 X51
+Lexogen - 7081 X52
+Lexogen - 7094 X62
+Lexogen - 7070 X74
+Lexogen - 7037 X75
+Lexogen - 7051 X76
+Lexogen - 7039 X86
+Lexogen - 7062 X87
+Lexogen - 7022 X88
+Lexogen - 7086 X54
+Lexogen - 7020 X55
+Lexogen - 7042 X56
+Lexogen - 7044 X57
+Lexogen - 7088 X58
+Lexogen - 7028 X59
+Lexogen - 7076 X60
+Lexogen - 7079 X65
+Lexogen - 7084 X66
+BIRCV1 - BA1
+BIRCV1 - BA2
+Adapter Index 3 F (BI ver1.0)
+SwiftDoubleIndex - D707_D507_S55
+NEBNEXT - q8
+Adapter Index 4 F (BI ver1.0)
+Adapter Index 5 F (BI ver1.0)
+Adapter Index 6 F (BI ver1.0)
+Adapter Index 7 F (BI ver1.0)
+Adapter Index 8 F (BI ver1.0)
+BIRCV2 - BB1
+BIRCV2 - BB2
+BIRCV2 - BB3
+BIRCV2 - BB4
+BIRCV2 - BB5
+BIRCV2 - BB6
+BIRCV2 - BB7
+BIRCV2 - BB8
+BIRCV3 - BC1
+BIRCV3 - BC2
+BIRCV3 - BC3
+BIRCV3 - BC4
+BIRCV3 - BC5
+BIRCV3 - BC6
+BIRCV3 - BC7
+BIRCV3 - BC8
+PE Adaptor R standard
+PE Adaptor F standard
+Illumina - I002
+Illumina - I004
+Illumina - I005
+Illumina - I006
+Illumina - I007
+Illumina - I012
+Illumina - I009
+Illumina - I001
+Illumina - I003
+Illumina - I008
+Illumina - I010
+Illumina - I011
+Lexogen - 7005 X1
+Lexogen - 7059 X2
+Lexogen - 7032 X3
+SwiftDoubleIndex - D705_D501_S33
+Lexogen - 7043 X4
+Lexogen - 7095 X49
+Lexogen - 7092 X13
+Lexogen - 7055 X25
+Lexogen - 7069 X37
+Lexogen - 7061 X61
+Lexogen - 7080 X73
+Lexogen - 7034 X85
+Nextera - 702_505
+Nextera - 702_510
+Nextera - 702_511
+Nextera - 703_510
+Nextera - 703_511
+Nextera - 704_510
+Nextera - 705_510
+Nextera - 705_511
+Nextera - 706_510
+Nextera - 706_511
+Nextera - 707_505
+Nextera - 709_517
+Nextera - 710_517
+Nextera - 707_517
+Nextera - 708_517
+Nextera - 707_502
+Nextera - 711_517
+Nextera - 701_506
+Nextera - 702_506
+Nextera - 703_506
+Nextera - 705_506
+Nextera - 708_506
+Nextera - 701_507
+Nextera - 702_507
+Nextera - 703_507
+Nextera - 704_507
+Nextera - 705_507
+Nextera - 706_507
+Nextera - 707_507
+Nextera - 708_507
+Nextera - 709_507
+Nextera - 710_507
+Nextera - 711_507
+Nextera - 712_507
+Nextera - 709_508
+sgRNA screen AVANA1 
+sgRNAscreen AVANA2
+sgRNAscreen AVANA3
+sgRNA screen AVANA2
+sgRNAscreen AVANA5
+sgRNAscreen AVANA4
+sgRNAscreen DRIVE
+sgRNAscreen DRIVE
+sgRNAscreenPARALOG
+Nextera - 711_502
+Nextera - 701_511
+Nextera - 708
+Nextera - 708_502
+Nextera - 709_502
+Nextera - 710_502
+ATAC 2.18
+ATAC 2.20
+ATAC 2.21
+ATAC 2.22
+Nextera - 708_505
+Nextera - 709_506
+Nextera - 712_506
+Nextera - 712_502
+Nextera - 712_503
+Nextera - 709_503
+Nextera - 710_503
+Nextera - 711_503
+Nextera - 707_504
+Nextera - 708_504
+Nextera - 703_505
+Nextera - 706_505
+Nextera - 710_506
+Nextera - 711_506
+Illumina - UDI0017
+Illumina - UDI0018
+Illumina - UDI0019
+Illumina - UDI0020
+Illumina - UDI0021
+Illumina - UDI0022
+Illumina - UDI0023
+Illumina - UDI0024
+Illumina - UDI0025
+Illumina - UDI0026
+Illumina - UDI0027
+Illumina - UDI0028
+Illumina - UDI0029
+Illumina - UDI0030
+Illumina - UDI0031
+Illumina - UDI0032
+Zuber - sgDeepSeq_rev_CAAGTC
+AbSeq Mouse Sample Tag 1
+AbSeq Mouse Sample Tag 2
+Zuber - MA15
+Zuber - MA17
+Zuber - MA18
+AbSeq Mouse Sample Tag 5
+AbSeq Mouse Sample Tag 6
+AbSeq Mouse Sample Tag 7
+BD - Rhapsody i7 Index 1
+BD - Rhapsody i7 Index 2
+BD - Rhapsody i7 Index 3
+BD - Rhapsody i7 Index 4
+10X Genomics - SI-TT-C4
+10x Genomics - SI-TT-D4
+10X Genomics - SI-TT-E4
+10X Genomics - SI-NN-A1
+10x Genomics - SI-NN-B1
+10x Genomics - SI-NN-C1
+10X Genomics - SI-NN-E2
+10X Genomics - SI-NN-D2
+10X Genomics - SI-TT-A6
+Illumina - SI-TS-A1b
+AbSeq Mouse Sample Tag 3
+AbSeq Mouse Sample Tag 4
+10x Genomics - SI-TT-A3
+10x Genomics - SI-TT-C3
+10x Genomics - SI-TT-D3
+10x Genomics - SI-TT-E3
+10x Genomics - SI-TT-F3
+10x Genomics - SI-TT-G3
+10x Genomics - SI-TT-H3
+SwiftDoubleIndex - D709_D505_S69
+SwiftDoubleIndex - D710_D506_S78
+SwiftDoubleIndex - D711_D507_S87
+xGen UDI - xGen UDI Primer Pair, Index 65
+xGen UDI - xGen UDI Primer Pair, Index 66
+xGen UDI - xGen UDI Primer Pair, Index 67
+xGen UDI - xGen UDI Primer Pair, Index 68
+xGen UDI - xGen UDI Primer Pair, Index 69
+xGen UDI - xGen UDI Primer Pair, Index 70
+xGen UDI - xGen UDI Primer Pair, Index 73
+xGen UDI - xGen UDI Primer Pair, Index 74
+xGen UDI - xGen UDI Primer Pair, Index 75
+xGen UDI - xGen UDI Primer Pair, Index 76
+xGen UDI - xGen UDI Primer Pair, Index 77
+xGen UDI - xGen UDI Primer Pair, Index 78
+xGen UDI - xGen UDI Primer Pair, Index 81
+xGen UDI - xGen UDI Primer Pair, Index 82
+xGen UDI - xGen UDI Primer Pair, Index 83
+xGen UDI - xGen UDI Primer Pair, Index 84
+xGen UDI - xGen UDI Primer Pair, Index 85
+xGen UDI - xGen UDI Primer Pair, Index 86
+xGen UDI - xGen UDI Primer Pair, Index 89
+xGen UDI - xGen UDI Primer Pair, Index 90
+xGen UDI - xGen UDI Primer Pair, Index 91
+xGen UDI - xGen UDI Primer Pair, Index 92
+xGen UDI - xGen UDI Primer Pair, Index 93
+xGen UDI - xGen UDI Primer Pair, Index 94
+SwiftDoubleIndex - D706_D502_S42
+SwiftDoubleIndex - D707_D503_S51
+SwiftDoubleIndex - D708_D504_S60
+10X Genomics - SI-TT-C6
+10X Genomics - SI-TT-D6
+10X Genomics - SI-TT-E6
+10X Genomics - SI-TT-F6
+10X Genomics - SI-TT-G6
+10X Genomics - SI-TT-H6
+10X Genomics - SI-TT-A7
+Lexogen - 7099
+Lexogen - 7100
+10X Genomics - SI-TT-A2
+10X Genomics - SI-TT-B2
+10X Genomics - SI-TT-C2
+10X Genomics - SI-TT-D2
+10X Genomics - SI-TT-E2
+10X Genomics - SI-TT-F2
+10X Genomics - SI-NN-B2
+10X Genomics - SI-NN-C2
+10X Genomics - SI-TT-G5
+10X Genomics - SI-TT-H5
+10X Genomics - SI-NN-F2
+10X Genomics - SI-TT-A8
+10X Genomics - SI-TT-A9
+10X Genomics - SI-TT-A10
+10X Genomics - SI-TT-A11
+10X Genomics - SI-TT-C7
+10X Genomics - SI-TT-C8
+10X Genomics - SI-TT-C9
+10X Genomics - SI-TT-C10
+10X Genomics - SI-TT-C11
+10X Genomics - SI-TT-D7
+10X Genomics - SI-TT-D8
+10X Genomics - SI-TT-D9
+10X Genomics - SI-TT-D10
+10X Genomics - SI-TT-D11
+10X Genomics - SI-TT-E7
+10X Genomics - SI-TT-E8
+10X Genomics - SI-TT-E9
+10X Genomics - SI-TT-E10
+10X Genomics - SI-TT-E11
+10X Genomics - SI-TT-F7
+10X Genomics - SI-TT-F8
+10X Genomics - SI-TT-F9
+10X Genomics - SI-TT-F10
+10X Genomics - SI-TT-G7
+10X Genomics - SI-TT-G8
+10X Genomics - SI-TT-G9
+10X Genomics - SI-TT-G10
+10X Genomics - SI-TT-G11
+10X Genomics - SI-TT-H7
+10X Genomics - SI-TT-H8
+10X Genomics - SI-TT-H9
+10X Genomics - SI-TT-H11
+Illumina - TruSeq_UDI0013
+Illumina - TruSeq_UDI0014
+Illumina - TruSeq_UDI0015
+Illumina - TruSeq_UDI0016
+Illumina - TruSeq_UDI0017
+Illumina - TruSeq_UDI0018
+Illumina - TruSeq_UDI0019
+10X Genomics - SI-GA-A8
+10X Genomics - SI-GA-F7
+10X Genomics - SI-GA-G7
+10X Genomics - SI-GA-H7
+Zuber - MA5
+Zuber - MA6
+Zuber - MA10
+Zuber - MA11
+Zuber - MA12
+Zuber - MA13
+Zuber - MA14
+Zuber - MA7
+Zuber - MA8
+Zuber - MA9
+Zuber
+Zuber - MA16
+Immagina - RiboLace Index 1
+Immagina - RiboLace Index#1
+Qiagen - QIAseq miRNA NGS ILM IDP #2
+Unique NEB - 7097-5097
+Unique NEB - 7098-5098
+Unique NEB - 7099-5099
+Unique NEB - 7100-5100
+Unique NEB - 7101-5101
+Unique NEB - 7102-5102
+Unique NEB - 7103-5103
+Unique NEB - 7104-5104
+Unique NEB - 7105-5105
+Unique NEB - 7106-5106
+Unique NEB - 7107-5107
+Unique NEB - 7108-5108
+Unique NEB - 7109-5109
+Unique NEB - 7110-5110
+Unique NEB - 7111-5111
+Unique NEB - 7112-5112
+Unique NEB - 7113-5113
+Unique NEB - 7114-5114
+Unique NEB - 7115-5115
+Unique NEB - 7116-5116
+Unique NEB - 7117-5117
+Unique NEB - 7118-5118
+Unique NEB - 7119-5119
+10X Genomics - SI-TT-A12
+10X Genomics - SI-TT-B12
+10X Genomics - SI-TT-C12
+10X Genomics - SI-TT-D12
+10X Genomics - SI-TT-E12
+10X Genomics - SI-TT-F12
+10X Genomics - SI-TT-G12
+10X Genomics - SI-TT-H12
+10X Genomics - SI-NN-A3
+10X Genomics - SI-NN-B3
+10X Genomics - SI-NN-H2
+10X Genomics - SI-TT-B3
+10X Genomics - SI-TT-B1
+10X Genomics - SI-TT-B4
+10X Genomics - SI-TT-B5
+10X Genomics - SI-TT-B6
+10X Genomics - SI-TT-B7
+10X Genomics - SI-TT-B8
+10X Genomics - SI-TT-B9
+10X Genomics - SI-TT-B10
+10X Genomics - SI-TT-B11
+SI-TT-A4
+10x Genomics - SI-TT-A4
+10X Genomics - SI-NN-D1
+10X Genomics - SI-TT-A5
+CRISPR 6-mers - CRISPR 6-mer 1
+CRISPR 6-mers - CRISPR 6-mer 2
+CRISPR 6-mers - CRISPR 6-mer 3
+CRISPR 6-mers - CRISPR 6-mer 4
+CRISPR 6-mers - CRISPR 6-mer 5
+CRISPR 6-mers - CRISPR 6-mer 6
+CRISPR 6-mers - CRISPR 6-mer 7
+CRISPR 6-mers - CRISPR 6-mer 8
+CRISPR 6-mers - CRISPR 6-mer 9
+CRISPR 6-mers - CRISPR 6-mer 10
+CRISPR 6-mers - CRISPR 6-mer 11
+CRISPR 6-mers - CRISPR 6-mer 12
+CRISPR 6-mers - CRISPR 6-mer 13
+10X Genomics - SI-NT-A2
+10X Genomics - SI-NT-B2
+10X Genomics - SI-NT-C2
+10X Genomics - SI-NT-D2
+10X Genomics - SI-NT-H1
+10x Genomics - SI-TT-G2
+10X Genomics - SI-NN-A4
+10X Genomics - SI-NN-B4
+10X Genomics - SI-NN-C4
+10X Genomics - SI-NN-D4
+10X Genomics - SI-NN-E4
+10X Genomics - SI-NN-F4
+10X Genomics - SI-NN-G4
+Illumina - TruSeq_UDI0001
+Illumina - TruSeq_UDI0002
+Illumina - TruSeq_UDI0003
+Illumina - TruSeq_UDI0004
+Illumina - TruSeq_UDI0005
+Illumina - TruSeq_UDI0006
+Illumina - TruSeq_UDI0007
+Illumina - TruSeq_UDI0008
+Illumina - TruSeq_UDI0009
+Illumina - TruSeq_UDI0010
+Illumina - TruSeq_UDI0011
+Illumina - TruSeq_UDI0012
+Nextera - 720_520
+Nextera - 720_521
+Nextera - 720_522
+Nextera - 721_513
+Nextera - 721_516
+Nextera - 721_517
+Nextera - 721_518
+Nextera - 721_521
+Nextera - 721_522
+Nextera - N701
+Nextera - N704
+Nextera - N703
+Nextera - N702
+Nextera - 701_517
+Nextera - 703_517
+Nextera - 704_517
+Nextera - 705_517
+Nextera - 701_502
+Nextera - 703_503
+Nextera - 702_504
+ATAC 2.1
+Nextera - 710_508
+Nextera - 703_508
+Nextera - 706_508
+Nextera - 709_504
+Nextera - 704_506
+Nextera - 706_506
+Nextera - 707_506
+ATAC 2.17
+ATAC 2.19
+ATAC 2.23
+ATAC 2.24
+Zuber - RN109
+Zuber - RN108
+Nextera - 704_505
+Nextera - 712_517
+Nextera - 703_502
+Nextera - 704_502
+Nextera - 705_502
+Nextera - 706_502
+Nextera - 701_503
+Nextera - 702_503
+Nextera - 704_503
+Nextera - 705_503
+Nextera - 706_503
+Nextera - 701_504
+Nextera - 703_504
+Nextera - 704_504
+Nextera - 705_504
+Nextera - 706_504
+Zuber - RN106
+Illumina
+Nextera
+Nextera dual-index 708_502
+Nextera dual-index 709_502
+Nextera - 711_508
+Nextera - 712_508
+ATAC 2.2
+ATAC 2.3
+ATAC 2.4
+ATAC 2.5
+Nextera - 710_505
+ATAC 2.6
+ATAC 2.7
+ATAC 2.8
+ATAC 2.9
+ATAC 2.10
+ATAC 2.11
+ATAC 2.12
+ATAC 2.13
+ATAC 2.14
+ATAC 2.15
+ATAC 2.16
+Nextera dual-index 701_503
+Nextera - 701_505
+Nextera dual-index 701_506
+Nextera dual-index 701_507
+Nextera - 701_510
+Zuber - RN105
+Zuber - RN104
+Zuber - RN103
+Zuber - RN102
+Zuber - RN101
+Zuber - RN099
+Zuber - RN100
+Zuber - RN098
+Zuber - RN090
+Zuber - RN091
+Zuber - RN094
+Zuber - RN107
+Zuber - RN092
+Zuber - RN093
+Nextera - 705_505
+Zuber - RN095
+Zuber - RN096
+Zuber - RN097
+Nextera - 701_508
+Nextera - 702_508
+Nextera - 704_508
+Nextera - 705_508
+Nextera - 707_508
+Nextera - 708_508
+Nextera - 707_503
+Nextera - 708_503
+Nextera - 710_504
+Nextera - 711_504
+Nextera - 712_504
+Nextera - 704_511
+Nextera - 709_505
+Nextera - 711_505
+Nextera - 712_505
+Illumina - TruSeq_UDI0020
+Illumina - TruSeq_UDI0021
+Illumina - TruSeq_UDI0022
+Illumina - TruSeq_UDI0023
+Illumina - TruSeq_UDI0024
+Illumina - TruSeq_UDI0025
+Illumina - TruSeq_UDI0026
+Illumina - TruSeq_UDI0027
+Illumina - TruSeq_UDI0028
+Illumina - TruSeq_UDI0029
+Illumina - TruSeq_UDI0030
+Illumina - TruSeq_UDI0031
+Illumina - TruSeq_UDI0032
+Illumina - TruSeq_UDI0033
+Illumina - TruSeq_UDI0034
+Illumina - TruSeq_UDI0035
+Illumina - TruSeq_UDI0036
+Illumina - TruSeq_UDI0037
+Illumina - TruSeq_UDI0038
+Illumina - TruSeq_UDI0039
+Illumina - TruSeq_UDI0040
+Illumina - TruSeq_UDI0041
+Illumina - TruSeq_UDI0042
+Illumina - TruSeq_UDI0043
+Illumina - TruSeq_UDI0044
+Illumina - TruSeq_UDI0045
+Illumina - TruSeq_UDI0046
+Illumina - TruSeq_UDI0047
+Illumina - TruSeq_UDI0048
+Illumina - TruSeq_UDI0049
+Illumina - TruSeq_UDI0050
+Illumina - TruSeq_UDI0051
+Illumina - TruSeq_UDI0052
+Illumina - TruSeq_UDI0053
+Illumina - TruSeq_UDI0054
+Illumina - TruSeq_UDI0055
+Illumina - TruSeq_UDI0056
+Illumina - TruSeq_UDI0057
+Illumina - TruSeq_UDI0058
+Illumina - TruSeq_UDI0059
+Illumina - TruSeq_UDI0060
+Illumina - TruSeq_UDI0061
+Illumina - TruSeq_UDI0062
+Illumina - TruSeq_UDI0063
+Illumina - TruSeq_UDI0064
+Illumina - TruSeq_UDI0065
+Illumina - TruSeq_UDI0066
+Illumina - TruSeq_UDI0067
+Illumina - TruSeq_UDI0068
+Illumina - TruSeq_UDI0069
+Illumina - TruSeq_UDI0070
+Illumina - TruSeq_UDI0071
+Illumina - TruSeq_UDI0072
+Illumina - TruSeq_UDI0073
+Illumina - TruSeq_UDI0074
+Illumina - TruSeq_UDI0075
+Illumina - TruSeq_UDI0076
+Illumina - TruSeq_UDI0077
+Illumina - TruSeq_UDI0078
+Illumina - TruSeq_UDI0079
+Illumina - TruSeq_UDI0080
+Illumina - TruSeq_UDI0081
+Illumina - TruSeq_UDI0082
+Illumina - TruSeq_UDI0083
+Illumina - TruSeq_UDI0084
+Illumina - TruSeq_UDI0085
+Illumina - TruSeq_UDI0086
+Illumina - TruSeq_UDI0087
+Illumina - TruSeq_UDI0088
+Illumina - TruSeq_UDI0089
+Illumina - TruSeq_UDI0090
+Illumina - TruSeq_UDI0091
+Illumina - TruSeq_UDI0092
+Illumina - TruSeq_UDI0093
+Illumina - TruSeq_UDI0094
+Illumina - TruSeq_UDI0095
+Illumina - TruSeq_UDI0096
